@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 
-https://img.shields.io/badge/LinkedIn-blue
-
+<div id='badges>
+   <a href=''><img src='https://img.shields.io/badge/LinkedIn-blue' alt/></a>
+   <a href=''><img src='' alt/></a>
+   <a href=''><img src='' alt/></a>
+</div>
