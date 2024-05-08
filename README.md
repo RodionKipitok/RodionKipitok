@@ -5,7 +5,7 @@
 </div>
 
 <h1>
-  Hi there 👋
+  Hi there 👋 Hi there 👋, my name is Rodin
   <img src="https://komarev.com/ghpvc/?username=RodionKipitok&style=flat-square&color=blue" alt=""/>
 </h1>
 
