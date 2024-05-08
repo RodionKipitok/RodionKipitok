@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <div id='badges>
    <a href=''><img src='https://img.shields.io/badge/LinkedIn-blue' alt/></a>
-   <a href=''><img src='' alt/></a>
+   <a href=''><img src='https://img.shields.io/badge/Gamil-red' alt/></a>
    <a href=''><img src='' alt/></a>
 </div>
