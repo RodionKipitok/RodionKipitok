@@ -6,6 +6,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=RodionKipitok&style=flat-square&color=blue" alt=""/>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
