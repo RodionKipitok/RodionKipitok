@@ -47,4 +47,4 @@ I am Front-end developer from Ukraine
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RodionKipitok)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodionKipitok&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
