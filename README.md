@@ -6,9 +6,8 @@
 
 <h1>
   Hi there 👋 Hi there 👋, my name is Rodion
-  <img src="https://komarev.com/ghpvc/?username=RodionKipitok&style=flat-square&color=blue" alt=""/>
 </h1>
-
+ <div> <img src="https://komarev.com/ghpvc/?username=RodionKipitok&style=flat-square&color=blue" alt=""/></div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
