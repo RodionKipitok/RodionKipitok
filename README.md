@@ -6,8 +6,9 @@
 
 <h1>
   Hi there 👋
-<img src="https://komarev.com/ghpvc/?username=RodionKipitok&style=flat-square&color=blue" alt=""/>
+
 </h1>
+<img src="https://komarev.com/ghpvc/?username=RodionKipitok&style=flat-square&color=blue" alt=""/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
