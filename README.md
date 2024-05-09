@@ -1,7 +1,7 @@
 
 
 <h1>
-  Hi there 👋 Hi there 👋, my name is Rodion.
+  Hi there 👋, my name is Rodion.
 </h1>
  <div> <img src="https://komarev.com/ghpvc/?username=RodionKipitok&style=flat-square&color=blue" alt=""/></div>
 <div align="center">
