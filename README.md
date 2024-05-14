@@ -10,7 +10,7 @@
 
 ### :man_technologist: About Me :
 I am Front-end developer from Ukraine
-- 🔭 I’m currently working on projects
+- 🔭 I’m currently working on my projects
 - You can view my portfolio <a href=''>here</a>.
 - 💬 Ask me about ...
 
