@@ -16,11 +16,7 @@ I am Front-end developer from Ukraine
 
 
 - 📫 How to reach me: ...
-<div id='badges>
-    
-   <a href='mailto:kuchernukrodion@gmail.com'><img src='https://img.shields.io/badge/Gamil-red?style=for-the-badge&logo=youtube&logoColor=white' alt= 'Gmail Badge'/>kuchernukrodion@gmail.com</a>
-  
-</div>
+[Gmail](kuchernukrodion@gmail.com)
 
 ---
 
