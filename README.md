@@ -17,7 +17,7 @@ I am Front-end developer from Ukraine
 
 - 📫 How to reach me: ...
 <div id='badges>
-   <a href=''><img src='https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=youtube&logoColor=white' alt='LinkedIn Badge'/></a>
+   <a href='https://www.linkedin.com/in/radion-kuchernyuk-b755b1206/'><img src='https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=youtube&logoColor=white' alt='LinkedIn Badge'/></a>
    <a href=''><img src='https://img.shields.io/badge/Gamil-red?style=for-the-badge&logo=youtube&logoColor=white' alt= 'Gmail Badge'/></a>
    <a href=''><img src='' alt/></a>
 </div>
