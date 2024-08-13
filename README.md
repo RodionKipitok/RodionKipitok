@@ -18,9 +18,9 @@ I am Front-end developer from Ukraine
 - 📫 How to reach me: ...
 
 
-[Написать нам](mailto:kuchernukrodion@gmail.com)
+[Write to me](mailto:kuchernukrodion@gmail.com)
 
-[Написать нам]([mailto:support@myproject.com?subject=Запрос%20о%20поддержке&body=Уважаемая%20команда,%20я хотел бы получить помощь по...])
+
 
 
 ---
