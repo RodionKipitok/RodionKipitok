@@ -19,7 +19,7 @@ I am Front-end developer from Ukraine
 <div id='badges>
     
    <a href='mailto:kuchernukrodion@gmail.com'><img src='https://img.shields.io/badge/Gamil-red?style=for-the-badge&logo=youtube&logoColor=white' alt= 'Gmail Badge'/></a>
-   <a href=''https://kuchernukrodion@gmail.com'><img src='' alt/></a>
+  
 </div>
 
 ---
