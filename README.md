@@ -16,7 +16,7 @@ I am Front-end developer from Ukraine
 
 
 - 📫 How to reach me: ...
-[Gmail](kuchernukrodion@gmail.com)
+![Gmail](kuchernukrodion@gmail.com)
 
 ---
 
