@@ -11,7 +11,7 @@
 ### :man_technologist: About Me :
 I am Front-end developer from Ukraine
 - 🔭 I’m currently working on my projects
-- You can view my portfolio <a href=''>here</a>.
+- You can view my portfolio <a href='https://rodionkipitok.github.io/Portfolio-react/'>here</a>.
 - 💬 Ask me about ...
 
 
